@@ -1,0 +1,51 @@
+<resources>
+    //
+    <string name="app_name">SavvySavingAppWorking</string>
+    <string name="welcome_to_savvy_saving_app">Welcome To Savvy</string>
+    <string name="please_select_your_4_digit_pin">Please Enter Your 4-Digit Pin</string>
+    <string name="confirm">Confirm</string>
+    <string name="welcome_to_savvy">Welcome to Savvy</string>
+
+    <string-array name="period_arrays">
+        <item>Week</item>
+        <item>Fortnight</item>
+        <item>Month</item>
+    </string-array>
+
+    <string-array name="categories">
+        <item>Food</item>
+        <item>Drink</item>
+        <item>Electricity</item>
+        <item>Rent</item>
+        <item>Transport</item>
+        <item>Petrol</item>
+        <item>Phone</item>
+        <item>Gym</item>
+        <item>Miscellaneous</item>
+        <item>Clothing</item>
+        <item>Water</item>
+    </string-array>
+    <string name="title_activity_start_screen">StartScreen</string>
+    <string name="first_time_click_here_to_set_up">First time? Click here to set up!</string>
+    <string name="you_have_3_attempts_left">You have 3 attempts left</string>
+    <string name="already_set_up_go_log_in">Already set up? Go log in!</string>
+    <string name="enter_your_finance_details">Enter Your Finance Details</string>
+    <string name="set_your_daily_budget">Set Your Daily Budget</string>
+    <string name="it_must_be_less_than_your_income">It must be less than your income!</string>
+    <string name="income">Income</string>
+    <string name="next">Next</string>
+    <string name="how_much_will_you_commit">How much will you commit?</string>
+    <string name="set_a_saving_goal">Set a Saving Goal</string>
+    <string name="target_date">Target Date?</string>
+    <string name="pledge_amount">Pledge Amount</string>
+    <string name="saving_goal">Saving Goal</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_your_income">Enter your Income</string>
+
+</resources>
